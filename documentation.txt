@@ -1,0 +1,19 @@
+Credits to:
+
+1. Clannad Ost - Roaring Tides II
+2. In Love With A Ghost - we've never met but, can we have a coffee or something
+3. L'indecis - Soulful
+
+background:
+http://clipart-library.com/clipart/1125949.htm
+
+petal sprite:
+http://free.adranger.net/cherry-blossoms/
+
+tree, but I edited it:
+https://www.kisspng.com/png-cherry-blossom-tree-clip-art-sakura-tree-901265/
+
+sun: made myself
+
+waveform data help:
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Visualizations_with_Web_Audio_API
